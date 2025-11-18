@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Sans+Serif);
+h1{
+    font-family:'Sans Serif';
+    text-align:center;
+    font-size: 200px;
+    margin: auto;
+    color: yellow;
+    font-weight: 700;
+}
+h2{
+    text-decoration: dashed;
+    text-align: center;
+    color:yellow;
+    font-size:60px;
+}
+body{
+    background-color:purple;
+}
+a{
+    font-size: 50px;
+    text-align: center;
+}
