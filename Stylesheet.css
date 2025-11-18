@@ -20,3 +20,15 @@ a{
     font-size: 50px;
     text-align: center;
 }
+#speedrun-timer {
+    position: fixed; /* Fixes the timer to the viewport */
+    top: 10px; /* Distance from the top */
+    right: 10px; /* Distance from the right */
+    background-color: black;
+    color: lime; /* Classic speedrun timer color */
+    padding: 5px 10px;
+    font-family: monospace;
+    font-size: 1.5em;
+    z-index: 1000; /* Ensures it's above other content */
+    border-radius: 3px;
+}
