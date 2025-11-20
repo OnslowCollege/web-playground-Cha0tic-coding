@@ -37,5 +37,6 @@ object{
 }
 p{
     font-size: 120px;
-    color:yellow;
+    text-align: center;
+    color: yellow;
 }
