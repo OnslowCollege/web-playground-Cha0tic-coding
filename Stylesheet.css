@@ -32,7 +32,7 @@ a{
     z-index: 1000; /* Ensures it's above other content */
     border-radius: 3px;
 }
-object{
+video{
     width:50%;
     height:50%;
     margin: auto;
