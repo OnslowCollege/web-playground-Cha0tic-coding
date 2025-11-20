@@ -19,6 +19,7 @@ body{
 }
 a{
     font-size: 50px;
+    text-align: center;
 }
 #speedrun-timer {
     position: fixed; /* Fixes the timer to the viewport */
