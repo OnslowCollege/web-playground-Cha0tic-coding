@@ -23,7 +23,6 @@ a{
     position: fixed; /* Fixes the timer to the viewport */
     top: 10px; /* Distance from the top */
     right: 10px; /* Distance from the right */
-    background-color: black;
     color: lime; /* Classic speedrun timer color */
     padding: 5px 10px;
     font-family: monospace;
