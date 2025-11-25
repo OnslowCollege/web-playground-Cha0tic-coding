@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Sans+Serif);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 h1{
-    font-family:'Sans Serif';
+    font-family:'Roboto';
     text-align:center;
     font-size: 200px;
     margin: auto;
@@ -8,6 +8,7 @@ h1{
     font-weight: 700;
 }
 h2{
+    font-family:'Roboto';
     text-decoration: dashed;
     text-align: center;
     color:yellow;
@@ -18,26 +19,16 @@ body{
     color: yellow;
 }
 a{
-    font-size: 50px;
+    font-family:'Roboto';
+    font-size: 100px;
     text-align: center;
-}
-#speedrun-timer {
-    position: fixed; /* Fixes the timer to the viewport */
-    top: 10px; /* Distance from the top */
-    right: 10px; /* Distance from the right */
-    color: lime; /* Classic speedrun timer color */
-    padding: 5px 10px;
-    font-family: monospace;
-    font-size: 1.5em;
-    z-index: 1000; /* Ensures it's above other content */
-    border-radius: 3px;
 }
 video{
     width:50%;
     height:50%;
-
 }
 p{
+    font-family:'Roboto';
     font-size: 120px;
     text-align: center;
     color: yellow;
