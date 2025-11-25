@@ -38,13 +38,13 @@ p{
     overflow-x: auto;
     width: 100%;
     height: 60%;
-    border: 1px solid #ccc;
+    border: 1px solid purple;
     padding: 10px;
 }
 .item {
     flex-shrink: 0;
     padding: 20px;
     margin: 10px;
-    background-color: lightblue;
+    background-color: yellow;
     min-width: 150px;
 }
